@@ -166,6 +166,6 @@ Based on the analysis:
 - GitHub
 
 ## Project Files
-- 📓 sql/online_retail_analysis.sql – Full SQL script (cleaning + analysis)
-- 📁 data/online_retail.csv – Raw dataset
+- 📓 [SQL Script](sql_scripts/online_retail_analysis.sql) – Full SQL script (cleaning + analysis)
+- 📁 Note: The raw dataset is not included due to file size limitations. It can be downloaded from [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci] – Raw online retail dataset
 
